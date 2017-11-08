@@ -1,0 +1,386 @@
+
+        body	{background-image: url(Travelimg.jpg);
+    	 	 background-repeat: no-repeat;
+    	 	 background-position: right top;
+    	 	 background-attachment: fixed;
+         	 margin:0px;
+		 background-size: cover;
+		 text-align:center}
+		
+    	h1	{font-family: "Century Gothic", CenturyGothic, AppleGothic, san-serif;
+		 font-size: 50px;
+		 font-style: normal;
+		 font-weight: 500;
+         	 color: white;
+		 line-height: auto 0px;}
+
+    	h2	{font-family: "Century Gothic", CenturyGothic, AppleGothic, san-serif;
+		 font-size: 40px;
+		 font-style: normal;
+		 font-weight: 500;
+         	 color: white;} 
+h3         {font-family: "Century Gothic", CenturyGothic,   AppleGothic, san-serif;
+   		 float: right;
+      		 color: black;
+        	 align: right;
+            font-style: normal;
+            font-size: 30px;
+            font-weight: 500;
+            width: 35%;}
+
+h4         {font-family: "Century Gothic", CenturyGothic,   AppleGothic, san-serif;
+   		 float: left;
+      		 color: black;
+        	 align: left;
+            font-style: normal;
+            font-size: 30px;
+            font-weight: 500;
+            width: 60%;}
+
+h5         {font-family: "Century Gothic", CenturyGothic,   AppleGothic, san-serif;
+   		 float: right;
+      		 color: black;
+        	 align: right;
+            font-style: normal;
+            font-size: 30px;
+            font-weight: 500;
+            width: 60%;}
+   
+    
+    	hr 	{border-top: 2px solid white;
+        	 width: 60%;
+		 margin-top:60px;} 
+       
+    .country {background-color: black;
+        	width:20%}
+           
+    .topnav 	{background-color: white;
+    		 overflow: hidden;
+             	 width: 100%;
+             	 position: fixed;}
+             
+    .topnav a 	{font-family: "Century Gothic", CenturyGothic, AppleGothic, san-serif;
+    		 float: right;
+    		 
+    		 color: black;
+    		 text-align: center;
+    		 padding: 14px ;
+    		 text-decoration: none;
+    		 font-size: 17px;}
+
+    .topnav b	{font-family: "Century Gothic", CenturyGothic, AppleGothic, san-serif;
+   		 float: left;
+    		 
+      		 color: black;
+        	 text-align: left;
+    		 padding: 14px ;
+    		 font-size: 17px;}
+               
+    .topnav a:hover {background-color: black;
+    		     color: white;}
+
+                   
+    .Iceland 	{background-color: white;
+    		 overflow: auto;
+                 width:90%;}
+
+    .Iceland:hover {background-color: lightgrey;}
+
+    .Iceland h1 {text-align: right;
+    		  float: left;
+                  color:black;
+   		  width: 60%;}
+
+    .Icelandimg {float: right;}
+
+    				
+                     
+    .England:hover {background-color: lightgrey;}
+
+    .England 	{float:right;
+    		 width:90%;
+    		 background-color:white;}
+                
+    .England h1 {text-align: left;
+    		  float:right;
+                  color:black;
+                  width: 60%;}
+
+    .Englandimg{float: left;}
+
+                  	                 
+    .Norway:hover {background-color: lightgrey;}
+    				 
+    .Norway	{background-color: white;
+    		 overflow: auto;
+            	 width:90%;}
+
+    .Norway h1 {text-align: right;
+    		float: left;
+                color:black;
+                width: 60%;}
+
+    .Norwayimg {float: right;}
+                  
+                
+    
+
+    .Iceland{-webkit-animation: fadein 2s; 
+       	      -moz-animation: fadein 2s; 
+              -ms-animation: fadein 2s; 
+              -o-animation: fadein 2s; 
+               animation: fadein 2s;}
+
+	@keyframes fadein {from { opacity: 0; }
+    			   to   { opacity: 1; }}
+
+
+	@-moz-keyframes fadein {from { opacity: 0; }
+    				to   { opacity: 1; }}
+
+
+	@-webkit-keyframes fadein {from { opacity: 0; }
+    				   to   { opacity: 1; }}
+
+
+	@-ms-keyframes fadein {from { opacity: 0; }
+    			       to   { opacity: 1; }}
+
+
+	@-o-keyframes fadein {from { opacity: 0; }
+    			      to   { opacity: 1; }}
+
+   .England{-webkit-animation: fadein 2s; 
+             -moz-animation: fadein 2s;
+             -ms-animation: fadein 2s; 
+             -o-animation: fadein 2s; 
+             animation: fadein 2s;}
+
+	@keyframes fadein {from { opacity: 0; }
+    			   to   { opacity: 1; }}
+
+
+	@-moz-keyframes fadein {from { opacity: 0; }
+    				to   { opacity: 1; }}
+
+
+	@-webkit-keyframes fadein {from { opacity: 0; }
+    				   to   { opacity: 1; }}
+
+
+	@-ms-keyframes fadein {from { opacity: 0; }
+    			       to   { opacity: 1; }}
+
+
+	@-o-keyframes fadein {from { opacity: 0; }
+    			      to   { opacity: 1; }}
+
+   
+
+   .Norway{-webkit-animation: fadein 2s; 
+             -moz-animation: fadein 2s;
+             -ms-animation: fadein 2s; 
+             -o-animation: fadein 2s; 
+             animation: fadein 2s;}
+
+	@keyframes fadein {from { opacity: 0; }
+    			   to   { opacity: 1; }}
+
+
+	@-moz-keyframes fadein {from { opacity: 0; }
+    				to   { opacity: 1; }}
+
+
+	@-webkit-keyframes fadein {from { opacity: 0; }
+    				   to   { opacity: 1; }}
+
+
+	@-ms-keyframes fadein {from { opacity: 0; }
+    			       to   { opacity: 1; }}
+
+
+	@-o-keyframes fadein {from { opacity: 0; }
+    			      to   { opacity: 1; }}
+
+    .Main{-webkit-animation: fadein 2s; 
+             -moz-animation: fadein 2s;
+             -ms-animation: fadein 2s; 
+             -o-animation: fadein 2s; 
+             animation: fadein 2s;}
+
+	@keyframes fadein {from { opacity: 0; }
+    			   to   { opacity: 1; }}
+
+
+	@-moz-keyframes fadein {from { opacity: 0; }
+    				to   { opacity: 1; }}
+
+
+	@-webkit-keyframes fadein {from { opacity: 0; }
+    				   to   { opacity: 1; }}
+
+
+	@-ms-keyframes fadein {from { opacity: 0; }
+    			       to   { opacity: 1; }}
+
+
+	@-o-keyframes fadein {from { opacity: 0; }
+    			      to   { opacity: 1; }}
+
+    .Main{margin-top:60px;}
+
+
+	.form {
+  background-color: #B1B1B1;
+  margin: 15px auto 0;
+  width: 410px;
+  float: center;
+  
+}
+#contact {
+  overflow: auto;
+  display:flex;
+  align-items:center;
+justify-contain: center; 
+  
+}
+#contact #form {
+  width:410px;
+  float:center;
+}
+#contact #form h2 {
+  font: 48px 'Bree Serif', Georgia, serif;
+}
+#contact #form span {
+  display:block;
+  float:center;
+  width:100px;
+  padding-top:5px;
+  font: 14px/16px'Bree Serif', Georgia, serif;
+}
+#contact #form input {
+  float:center;
+  width:255px;
+  border:0px;
+  color:#F1F1F1;
+  padding:10px 10px 10px 30px;
+  font: 11px/20px'Open Sans', Verdana, Helvetica, sans-serif;
+  margin-bottom:10px;
+}
+#contact #form textarea {
+  float:center;
+  border:0px;
+  width:255px;
+  height:140px;
+  padding:10px 10px 10px 30px;
+  font: 11px/20px'Open Sans', Verdana, Helvetica, sans-serif;
+  color:#F1F1F1;
+  resize: none;
+}
+#contact #form input.name {
+  background:#222222 url(http://img7.uploadhouse.com/fileuploads/17737/177370145f09fe433945815665aa214f80dbc6af.png) no-repeat 10px 8px;
+}
+#contact #form input.email {
+  background:#222222 url(http://img6.uploadhouse.com/fileuploads/17737/177370138cc63992182149e9befabff3eafa6d23.png) no-repeat 10px 9px;
+}
+#contact #form input.captcha {
+  background:#222222 url(http://img3.uploadhouse.com/fileuploads/17737/17737011310213e71805ecf2292144cbbecf42ad.png) no-repeat 10px 9px;
+}
+#contact #form textarea.message {
+  background:#222222 url(http://img3.uploadhouse.com/fileuploads/17737/1773701229ed8c2f465a8274623ca8976adaf196.png) no-repeat 10px 8px;
+}
+#contact #form input.submit {
+  cursor: pointer;
+  width:85px;
+  height:30px;
+  float:right;
+  padding:0px 0px 5px 0px;
+  margin:10px 16px 0px 0px;
+  background:#222222;
+  color:#F1F1F1;
+  font: 14px/16px'Bree Serif', Georgia, serif;
+}
+#contact #captcha span{
+  width: 44px;
+}
+#contact #captcha input{
+  background: url(http://img3.uploadhouse.com/fileuploads/17737/17737011310213e71805ecf2292144cbbecf42ad.png) no-repeat scroll 0 0 transparent;
+  margin: 5px 0 0;
+  padding: 0;
+  border: medium none;
+  cursor: pointer;
+  width: 15px;
+}
+
+.icon-scroll,
+.icon-scroll:before {
+  position: absolute;
+  left: 50%;
+}
+
+.icon-scroll {
+  width: 40px;
+  height: 70px;
+  margin-left: -20px;
+  bottom: 5%;
+  box-shadow: inset 0 0 0 1px #fff;
+  border-radius: 25px;
+}
+
+.icon-scroll:before {
+  content: '';
+  width: 8px;
+  height: 8px;
+  background: #fff;
+  top: 8px;
+  border-radius: 4px;
+  margin-left: -4px;
+  -webkit-animation: scroll infinite 1.5s;
+  animation: scroll infinite 1.5s;
+}
+
+@-webkit-keyframes scroll {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(46px);
+    transform: translateY(46px);
+  }
+}
+
+@keyframes scroll {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(46px);
+    transform: translateY(46px);
+  }
+}
+
+
+/* END ICON SCROLL */
+@media screen and (max-width: 600px) {
+  .logo-txt {
+    font-size: 1.7em;
+    ;
+  }
+  nav {
+    width: 60%;
+  }
+  .icon-scroll {
+    visibility: hidden;
+  }
+  section {
+    flex-wrap: wrap;
+    min-width: none;
+  }
+.opacity-0-3 {
+  opacity: 0.3;
+}
+.hover-opacity-1-0:hover {
+  opacity: 1;
+}
